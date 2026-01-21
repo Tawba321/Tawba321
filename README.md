@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ahmed 👋
 
-<!--
-**Tawba321/Tawba321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Security operations professional Learning software development. Currently pursuing CompTIA certifications and a B.S. in Cybersecurity & Information Assurance while learning to code.
 
-Here are some ideas to get you started:
+## Current Focus
+- 🎓 Studying: Python, Git, Linux, software development fundamentals
+- 📜 Certifications: CompTIA A+ (Core 1 ✅), Network+, Security+ (in progress)
+- 🎯 Goal: Software Development Apprenticeship → Backend Engineering → Knowledgable
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- 🔐 Security Control Center Operator  at Amazon (Seattle)
+- 🛡️ Experience with enterprise systems, incident management, and cross-functional coordination
+- 💻 Learning to code with a security-first mindset
+
+## Learning Journey
+This GitHub documents my journey from security operations to software development. Repositories here might include coursework exercises, learning projects, and practice implementations as I build my technical foundation.
+
+---
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-0332a3342/)
