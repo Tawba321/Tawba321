@@ -6,7 +6,7 @@ Security operations professional Learning software development. Currently pursui
 ## Current Focus
 - 🎓 Studying: Python, Git, Linux, software development fundamentals
 - 📜 Certifications: CompTIA A+ (Core 1 ✅), Network+, Security+ (in progress)
-- 🎯 Goal: Software Development Apprenticeship → Backend Engineering → Knowledgable
+- 🎯 Goal: Software Development Knowledge → Backend Engineering Knowledge → Cyber Security Knowledge → Knowledgable
 
 ## Background
 - 🔐 Security Control Center Operator  at Amazon (Seattle)
